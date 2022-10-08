@@ -20,7 +20,8 @@ const Hero = (props) => (
           My name is AKRAM ESAAIDI, and my portfolio is a representation of all
           that I've learned and accomplished as a programer.
         </SectionText>
-        //<Button onClick={props.handleClick}>Learn More</Button>
+  {/*<Button onClick={props.handleClick}>Learn More</Button>*/
+  }
       </LeftSection>
     </Section>
   </>
